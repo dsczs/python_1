@@ -8,3 +8,6 @@ for a in list_string:
 fruits = ['banana', 'apple', 'mango']
 for index in range(len(fruits)):
     print('当前水果 :',index, fruits[index])
+
+print(list_string.count(1))
+print(list_string.reverse()) 
